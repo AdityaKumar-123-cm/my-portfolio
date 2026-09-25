@@ -1,2 +1,2 @@
 # my-portfolio
-My personal web development project
+My personal web development project.
